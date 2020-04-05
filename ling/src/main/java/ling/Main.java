@@ -4,6 +4,7 @@ package ling;
 import java.io.*;
 import java.util.*;
 
+// my comment
 public final class Main
 {
     static private final Segmentation segmentation = new Segmentation();
